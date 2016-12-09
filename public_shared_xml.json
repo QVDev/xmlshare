@@ -1,0 +1,13 @@
+{
+  "drawables":[
+    {"description":"Chat Bubbles", "img":"https://d13yacurqjgara.cloudfront.net/users/76973/screenshots/640702/speech_bubbles.jpg"},
+    {"description":"Social button", "img":"https://i.stack.imgur.com/SCJZO.png"}
+  ],
+  "layouts":[
+    {"description":"List layout", "img":"https://developer.android.com/design/material/images/list_mail.png"},
+    {"description":"Custom Dialog", "img":"https://developer.android.com/images/ui/dialog_custom.png"}
+  ],
+  "values":[
+    {"description":"Material colors", "img":"https://d13yacurqjgara.cloudfront.net/users/763/screenshots/1118715/icons.png"}
+  ]
+}

@@ -10,4 +10,6 @@ This website has been setup to share xml files such as layouts, values or drawab
 - Submit pull request, we test the functionality and we merge if everything goes good.
 
 ## Feel free to discuss functionality, bugs, improvements etc.. on
-https://www.reddit.com/r/androiddev/comments/5ha3bc/dev_ideamvp_share_your_android_drawables_color/
+[Hacker News](https://news.ycombinator.com/item?id=13142793)
+
+[r/androiddev](https://www.reddit.com/r/androiddev/comments/5ha3bc/dev_ideamvp_share_your_android_drawables_color/)

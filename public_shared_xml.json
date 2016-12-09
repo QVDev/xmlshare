@@ -1,13 +1,33 @@
 {
   "drawables":[
-    {"description":"Chat Bubbles", "img":"https://d13yacurqjgara.cloudfront.net/users/76973/screenshots/640702/speech_bubbles.jpg"},
-    {"description":"Social button", "img":"https://i.stack.imgur.com/SCJZO.png"}
+    { 
+      "description":"Chat Bubbles", 
+      "img":"https://d13yacurqjgara.cloudfront.net/users/76973/screenshots/640702/speech_bubbles.jpg",
+      "file":"chat_bubbles.xml"
+    },
+    {
+      "description":"Social button",
+      "img":"https://i.stack.imgur.com/SCJZO.png",
+      "file":"social_button.xml"
+    }
   ],
   "layouts":[
-    {"description":"List layout", "img":"https://developer.android.com/design/material/images/list_mail.png"},
-    {"description":"Custom Dialog", "img":"https://developer.android.com/images/ui/dialog_custom.png"}
+    {
+      "description":"List layout",
+      "img":"https://developer.android.com/design/material/images/list_mail.png",
+      "file":"list_layout.xml"
+    },
+    {
+      "description":"Custom Dialog",
+      "img":"https://developer.android.com/images/ui/dialog_custom.png",
+      "file":"custom_dialog.xml"
+    }
   ],
   "values":[
-    {"description":"Material colors", "img":"https://d13yacurqjgara.cloudfront.net/users/763/screenshots/1118715/icons.png"}
+    {
+      "description":"Material colors",
+      "img":"https://d13yacurqjgara.cloudfront.net/users/763/screenshots/1118715/icons.png",
+      "file":"material_colors.xml"
+    }
   ]
 }

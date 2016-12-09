@@ -9,6 +9,11 @@
       "description":"Social button",
       "img":"https://i.stack.imgur.com/SCJZO.png",
       "file":"social_button.xml"
+    },
+    {
+      "description":"Rating background",
+      "img":"https://github.com/QVDev/Twitflicks/raw/master/screens/device-2013-10-06-195938.png",
+      "file":"rating_bar.xml"
     }
   ],
   "layouts":[
